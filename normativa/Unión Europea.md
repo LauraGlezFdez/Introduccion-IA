@@ -25,6 +25,7 @@ Portal con recursos, análisis y actualizaciones sobre el desarrollo e implement
 Página oficial de la Comisión Europea que explica el enfoque regulatorio europeo y los objetivos del AI Act.
 
 ![Clasificación de riesgos del AI Act](../y_images/Risk_RIA.jpg)
+
 *Figura 1. Clasificación de riesgos del Reglamento Europeo de Inteligencia Artificial (AI Act).  
 Fuente: Parlamento Europeo y Consejo de la Unión Europea, Reglamento (UE) 2024/1689.*
 
