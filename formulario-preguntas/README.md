@@ -12,7 +12,7 @@ No introduzca datos personales, información relevante de la organización, caso
 
 Las preguntas deben estar exclusivamente relacionadas con el contenido del curso y formularse de manera general.
 
-**Fecha límite de envío:** martes 17, hasta las **17:00 horas**.
+**Fecha límite de envío:** martes 17, hasta las 17:00 horas.
 
 ---
 
