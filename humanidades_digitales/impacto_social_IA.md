@@ -81,4 +81,4 @@ La implementación responsable de inteligencia artificial requiere alineación c
 
 ---
 
-> Nota: Las representaciones visuales incluidas en esta sección han sido generadas con la herramienta de visualización asistida por inteligencia artificial **Napkin AI**, con fines ilustrativos para el análisis conceptual de dilemas éticos en sistemas de inteligencia artificial.
+> _Nota: Las representaciones visuales incluidas en esta sección han sido generadas con la herramienta de visualización asistida por inteligencia artificial **Napkin AI**, con fines ilustrativos para el análisis conceptual de dilemas éticos en sistemas de inteligencia artificial._
