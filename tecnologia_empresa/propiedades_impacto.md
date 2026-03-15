@@ -176,6 +176,48 @@ Esta aproximación permite desplazar el debate desde la fascinación tecnológic
 | Sistemas multimodales y agentes | Sistemas con mayor capacidad operativa y autonomía | Mayor complejidad de control y supervisión | Riesgos de uso indebido o incidentes visibles | Evaluación previa de casos de uso |
 ---
 
+# Propiedades de los sistemas de IA y su impacto organizacional
+
+Los sistemas de inteligencia artificial presentan características técnicas que influyen directamente en su uso dentro de las organizaciones.
+
+## Comportamiento no determinista
+
+Los modelos de IA suelen generar resultados probabilísticos en lugar de deterministas.
+
+Esto implica que las organizaciones deben diseñar procesos capaces de gestionar resultados inciertos.
+
+## Escalabilidad computacional
+
+El rendimiento de los modelos de IA depende del acceso a recursos computacionales.
+
+El tiempo de procesamiento puede aproximarse mediante:
+
+T ≈ O(n)
+
+donde:
+
+- T = tiempo de procesamiento
+- n = tamaño del conjunto de datos o número de parámetros
+
+En modelos de gran escala, el crecimiento del coste computacional puede ser significativo.
+
+## Sensibilidad al contexto
+
+En modelos generativos, pequeñas variaciones en las instrucciones del usuario pueden producir resultados diferentes.
+
+Este fenómeno se conoce como **sensibilidad al prompt**.
+
+## Impacto en la gobernanza tecnológica
+
+Debido a estas características, el uso organizativo de la IA requiere:
+
+- mecanismos de supervisión
+- evaluación continua de resultados
+- políticas de uso responsable
+
+---
+
+
 ## Conclusión
 
 La comprensión básica de ciertas propiedades técnicas de la inteligencia artificial es esencial para la dirección, la gobernanza y la gestión de riesgos.
