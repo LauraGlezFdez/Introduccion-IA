@@ -9,15 +9,10 @@ Antes de enviar sus preguntas, tenga en cuenta lo siguiente:
 5. La **fecha límite de envío es el martes 17 a las 18:00 horas** (se comunicará en el aula el método y la dirección de envío).
 6. Se recomienda formular preguntas concretas, claras y orientadas al aprendizaje.
 
-## Ejemplos de preguntas adecuadas
 
-- ¿Qué limitaciones tienen actualmente los sistemas de IA en entornos profesionales?
-- ¿Qué riesgos éticos deben valorarse antes de implantar una solución de IA?
-- ¿Qué cuestiones regulatorias deben tener en cuenta las empresas al utilizar IA?
-- ¿Cómo puede aplicarse la IA en procesos empresariales sin perder supervisión humana?
+## Ejemplos de preguntas
 
-## Ejemplos de preguntas inadecuadas
-
-- Preguntas con datos personales o identificativos.
-- Casos internos con información sensible o confidencial.
-- Consultas ajenas al contenido del curso.
+- ¿En qué tipos de procesos empresariales puede aportar mayor valor la inteligencia artificial sin comprometer la transparencia ni el control organizativo?
+- ¿Cuáles son actualmente las principales limitaciones técnicas de los modelos de IA generativa y cómo pueden afectar a su fiabilidad en entornos profesionales?
+- ¿Qué aspectos clave introduce la regulación europea sobre inteligencia artificial que deberían tener en cuenta las organizaciones al integrar sistemas de IA en sus procesos?
+- ¿Qué mecanismos de supervisión humana deberían establecer las organizaciones para garantizar un uso responsable de la IA en la toma de decisiones?
