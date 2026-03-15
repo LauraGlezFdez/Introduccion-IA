@@ -27,7 +27,7 @@ Entre ellas destacan:
 
 ## Marco de reflexión ética para la IA
 
-![Marco de reflexión ética](../y_imagenes/marco_reflexion_etica_IA.png)
+![Marco de reflexión ética](../y_images/y_imagenes/marco_reflexion_etica_IA.png)
 
 Este marco permite analizar de forma estructurada el uso de sistemas de inteligencia artificial dentro de una organización, conectando las dimensiones técnicas con aspectos organizativos y sociales.
 
@@ -35,7 +35,7 @@ Este marco permite analizar de forma estructurada el uso de sistemas de intelige
 
 ## Sesgo y equidad en sistemas de IA
 
-![Sesgo y equidad en IA](../y_imagenes/sesgo_equidad_IA.png)
+![Sesgo y equidad en IA](../y_images/y_imagenes/sesgo_equidad_IA.png)
 
 Los sistemas de inteligencia artificial pueden reproducir o amplificar sesgos presentes en los datos de entrenamiento. Esto puede generar resultados discriminatorios o desiguales para distintos grupos de usuarios.
 
@@ -43,7 +43,7 @@ Los sistemas de inteligencia artificial pueden reproducir o amplificar sesgos pr
 
 ## Transparencia en sistemas de inteligencia artificial
 
-![Transparencia en IA](../y_imagenes/transparencia_IA.png)
+![Transparencia en IA](../y_images/y_imagenes/transparencia_IA.png)
 
 La transparencia facilita la comprensión del comportamiento de los sistemas de IA y contribuye a generar confianza en su uso dentro de las organizaciones.
 
@@ -51,7 +51,7 @@ La transparencia facilita la comprensión del comportamiento de los sistemas de 
 
 ## Equilibrio entre automatización y supervisión humana
 
-![Automatización vs supervisión humana](../y_imagenes/automatizacion_supervision_IA.png)
+![Automatización vs supervisión humana](../y_images/y_imagenes/automatizacion_supervision_IA.png)
 
 La automatización puede mejorar la eficiencia operativa, pero requiere mecanismos adecuados de supervisión humana para evitar errores o decisiones injustas.
 
@@ -59,7 +59,7 @@ La automatización puede mejorar la eficiencia operativa, pero requiere mecanism
 
 ## Responsabilidad en el uso de datos
 
-![Responsabilidad de datos](../y_imagenes/responsabilidad_datos_IA.png)
+![Responsabilidad de datos](../y_images/y_imagenes/responsabilidad_datos_IA.png)
 
 La calidad, procedencia y tratamiento de los datos utilizados por los sistemas de IA influyen directamente en el comportamiento del modelo y en los resultados generados.
 
@@ -67,7 +67,7 @@ La calidad, procedencia y tratamiento de los datos utilizados por los sistemas d
 
 ## Rendición de cuentas en sistemas de IA
 
-![Rendición de cuentas](../y_imagenes/rendicion_cuentas_IA.png)
+![Rendición de cuentas](../y_images/y_imagenes/rendicion_cuentas_IA.png)
 
 Las organizaciones deben establecer mecanismos claros para identificar responsabilidades cuando un sistema de IA produce resultados incorrectos o perjudiciales.
 
@@ -75,7 +75,7 @@ Las organizaciones deben establecer mecanismos claros para identificar responsab
 
 ## Fundamentos éticos para la adopción de IA
 
-![Fundamentos de ética de IA](../y_imagenes/fundamentos_etica_IA.png)
+![Fundamentos de ética de IA](../y_images/y_imagenes/fundamentos_etica_IA.png)
 
 La implementación responsable de inteligencia artificial requiere alineación con la misión, los valores y la cultura organizacional.
 
