@@ -26,10 +26,10 @@ Una vez identificado el problema, se debe analizar el caso de uso.
 
 Aspectos a considerar:
 
-- volumen de datos disponible
-- impacto potencial en personas u organizaciones
-- nivel de criticidad de las decisiones automatizadas
-- posibilidad de supervisión humana
+- Volumen de datos disponible
+- Impacto potencial en personas u organizaciones
+- Nivel de criticidad de las decisiones automatizadas
+- Posibilidad de supervisión humana
 
 ---
 
@@ -38,19 +38,19 @@ Aspectos a considerar:
 El uso de IA puede implicar distintos tipos de riesgos:
 
 ### Riesgos técnicos
-- errores del modelo
-- resultados incorrectos o "alucinaciones"
-- falta de robustez del sistema
+- Errores del modelo
+- Resultados incorrectos o "alucinaciones"
+- Falta de robustez del sistema
 
 ### Riesgos legales
-- cumplimiento del Reglamento Europeo de Inteligencia Artificial (AI Act)
-- protección de datos personales
-- responsabilidad por decisiones automatizadas
+- Cumplimiento del Reglamento Europeo de Inteligencia Artificial (AI Act)
+- Protección de datos personales
+- Responsabilidad por decisiones automatizadas
 
 ### Riesgos éticos
-- sesgos en los datos
-- discriminación
-- falta de transparencia
+- Sesgos en los datos
+- Discriminación
+- Falta de transparencia
 
 ---
 
@@ -60,10 +60,10 @@ La organización debe establecer mecanismos de control y supervisión.
 
 Elementos clave de gobernanza:
 
-- definición de responsabilidades
-- supervisión humana del sistema
-- mecanismos de auditoría
-- seguimiento del funcionamiento del sistema
+- Definición de responsabilidades
+- Supervisión humana del sistema
+- Mecanismos de auditoría
+- Seguimiento del funcionamiento del sistema
 
 Este enfoque está alineado con marcos internacionales como:
 
@@ -78,10 +78,10 @@ Una vez desplegado el sistema de IA, es necesario mantener un proceso de monitor
 
 Aspectos a revisar:
 
-- precisión y fiabilidad del sistema
-- posibles desviaciones o fallos
-- impacto en los usuarios
-- cumplimiento regulatorio
+- Precisión y fiabilidad del sistema
+- Posibles desviaciones o fallos
+- Impacto en los usuarios
+- Cumplimiento regulatorio
 
 ---
 
