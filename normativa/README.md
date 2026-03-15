@@ -12,4 +12,4 @@ El objetivo es proporcionar a los alumnos una visión general del contexto norma
 - Documentos regulatorios e institucionales relevantes
 - Informes y marcos de gobernanza de IA
 
-Los documentos incluidos tienen un carácter informativo y de apoyo al aprendizaje.
+Los documentos incluidos tienen un **carácter informativo y de apoyo al aprendizaje**.
