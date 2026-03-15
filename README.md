@@ -2,14 +2,14 @@
 
 Repositorio de apoyo al curso impartido en marzo de 2026.
 
-## Estructura
+## Estructura del repositorio
 
-- Formulario-preguntas → preguntas previas de los alumnos
+- [Formulario de preguntas previas](formulario-preguntas/) → preguntas previas de los alumnos
 
-- Materiales → documentos utilizados durante la sesión
+- [Materiales del curso](materiales/) → documentos utilizados durante la sesión
 
-- Normativa → marco regulatorio, estándares y gobernanza de IA
+- [Normativa, estándares y gobernanza de la IA](normativa/) → marco regulatorio, estándares y gobernanza de la inteligencia artificial
 
-- Recursos → material complementario para profundizar
+- [Recursos adicionales](recursos/) → material complementario para profundizar en los contenidos del curso
 
-- Quiz → mini cuestionarios interactivos para repasar los contenidos
+- [Quizzes interactivos](recursos/quiz/index.html) → mini cuestionarios interactivos para repasar los contenidos
