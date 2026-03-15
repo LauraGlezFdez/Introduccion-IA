@@ -2,4 +2,4 @@
 
 El siguiente esquema ilustra cómo determinados riesgos asociados al uso de sistemas de inteligencia artificial pueden analizarse en función de su probabilidad de ocurrencia y de su impacto organizativo.
 
-![Mapa de riesgos de IA](../y_imagenes/marco_gobernanza_riesgos_IA.jpg)
+![Mapa de riesgos de IA](../y_images/y_imagenes/marco_gobernanza_riesgos_IA.jpg)
