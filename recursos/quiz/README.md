@@ -1,19 +1,20 @@
 # Quizzes interactivos
 
-Esta carpeta incluye cuestionarios breves autocorregibles asociados a los distintos bloques del curso.
+Esta carpeta incluye cuestionarios breves autocorregibles asociados a los distintos bloques del curso para repasar los contenidos.
 
-## Acceso
+Cada quiz contiene 5 preguntas sobre los conceptos clave de cada bloque.
 
-- [Quiz – Ciencias](quiz-ciencias.html)
-- [Quiz – Aplicabilidad](quiz-aplicabilidad.html)
-- [Quiz – Ética](quiz-etica.html)
-- [Quiz – Regulación](quiz-regulacion.html)
+### Cómo realizar los cuestionarios
 
-## Página principal
+1. Descargue la carpeta **quiz**.
+2. Descomprima el archivo en su ordenador.
+3. Abra el archivo **index.html** con su navegador (Chrome, Edge o Firefox).
+4. Seleccione el bloque que desea realizar.
+5. Marque la respuesta que considere correcta.
+6. Pulse el botón **Corregir quiz** para ver su puntuación.
 
-- [Abrir índice de quizzes](index.html)
+Los cuestionarios funcionan directamente en el navegador y **no requieren registro ni creación de cuenta**.
 
 ## Nota de uso
 
 Los archivos HTML pueden abrirse directamente en navegador.  
-Para una experiencia más premium, se recomienda publicarlos con GitHub Pages.
