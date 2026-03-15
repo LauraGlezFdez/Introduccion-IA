@@ -14,10 +14,3 @@ El objetivo no es profundizar en la implementación técnica de los modelos, sin
 
 Comprender estas características permite a las organizaciones integrar la inteligencia artificial de forma responsable y alineada con sus objetivos estratégicos.
 
-
-## Ética e impacto organizacional de la IA
-
-La adopción de inteligencia artificial en las organizaciones requiere considerar no solo los aspectos tecnológicos, sino también su impacto ético, social y organizativo.
-
-- [Reflexión ética en el uso de la IA](etica_IA.md)
-- [Propiedades e impacto organizacional de la IA](propiedades_impacto.md)
