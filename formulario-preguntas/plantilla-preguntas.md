@@ -10,5 +10,4 @@ Este formulario permite recoger preguntas y áreas de interés de los alumnos an
 Martes 17 — 17:00 horas
 
 **Método de envío**:
-
 Se comunicará en el aula el método y la dirección de envío.
