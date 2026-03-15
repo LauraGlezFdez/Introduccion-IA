@@ -12,7 +12,7 @@ Antes de enviar sus preguntas, tenga en cuenta lo siguiente:
 
 ## Ejemplos de preguntas
 
-A continuación se incluyen algunos ejemplos que ilustran el tipo de cuestiones que pueden plantearse dentro del marco del curso.
+A continuación se incluyen algunos ejemplos que ilustran el tipo de cuestiones que pueden plantearse dentro del marco del curso:
 
 - **Aplicabilidad (práctica)**  ¿En qué tipos de procesos empresariales puede aportar mayor valor la inteligencia artificial sin comprometer la transparencia ni el control organizativo?
 - **Ciencias (tecnología)**  ¿Cuáles son actualmente las principales limitaciones técnicas de los modelos de IA generativa y cómo pueden afectar a su fiabilidad en entornos profesionales?
