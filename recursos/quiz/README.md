@@ -12,7 +12,7 @@ Cada mini cuestionarios del curso contiene 5 preguntas sobre los conceptos clave
 4. Seleccione el bloque que desea realizar.
 5. Marque la respuesta que considere correcta.
 6. Pulse el botón **Corregir quiz** para ver su puntuación.
-7. Si desea consultar las soluciones y explicaciones, acceda a la carpeta correspondiente: [Soluciones de los quizzes](quiz/soluciones-quizzes/)
+7. Si desea consultar las soluciones y explicaciones, acceda a la carpeta correspondiente: [Soluciones de los quizzes](soluciones-quizzes/)
 
 Los cuestionarios funcionan directamente en el navegador y **no requieren registro ni creación de cuenta**.
 
