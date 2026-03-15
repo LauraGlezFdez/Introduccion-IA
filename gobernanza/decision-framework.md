@@ -93,7 +93,7 @@ Su objetivo es ofrecer una visión estructurada de los principales elementos que
 
 ![Marco de gobernanza de IA](../y_images/Gobernanza_frame_IA.jpg)
 
-*Nota: esquema conceptual elaborado por la autora con apoyo de herramientas de diseño asistidas por IA.*
+*Nota: esquema conceptual elaborado por la autora con apoyo de herramientas de diseño asistidas por IA: Sigma.*
 
 ---
 
