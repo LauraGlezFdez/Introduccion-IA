@@ -24,7 +24,12 @@ Portal con recursos, análisis y actualizaciones sobre el desarrollo e implement
 ## Marco regulatorio europeo de IA (Comisión Europea)
 Página oficial de la Comisión Europea que explica el enfoque regulatorio europeo y los objetivos del AI Act.
 
+
+
+
 🔗 **[Regulatory Framework for AI – Comisión Europea](https://digital-strategy.ec.europa.eu/es/policies/regulatory-framework-ai)**
+
+
 
 ---
 
