@@ -11,6 +11,8 @@ A partir de estas dos dimensiones se definen cuatro categorías de gestión del 
 
 ![Mapa de riesgos de IA](../y_images/y_imagenes/marco_gobernanza_riesgos_IA.jpg)
 
+> **Nota:** La representación visual de este marco ha sido generada mediante la herramienta de diseño asistido por IA **Sigma**, con el objetivo de facilitar la comprensión del modelo de análisis de riesgos presentado.
+
 ### Alta prioridad
 
 Riesgos con **alto impacto y alta probabilidad**, que requieren **acción inmediata y medidas de mitigación urgentes**.
