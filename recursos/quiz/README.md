@@ -2,7 +2,7 @@
 
 Esta carpeta incluye cuestionarios breves autocorregibles asociados a los distintos bloques del curso para repasar los contenidos.
 
-Cada quiz contiene 5 preguntas sobre los conceptos clave de cada bloque.
+Cada mini cuestionarios del curso contiene 5 preguntas sobre los conceptos clave de cada bloque.
 
 ### Cómo realizar los cuestionarios
 
@@ -12,7 +12,7 @@ Cada quiz contiene 5 preguntas sobre los conceptos clave de cada bloque.
 4. Seleccione el bloque que desea realizar.
 5. Marque la respuesta que considere correcta.
 6. Pulse el botón **Corregir quiz** para ver su puntuación.
-7. La explicación de la respuesta está en el archivo llamado por el nombre del bloque y finalizado con la extensión .md
+7. Si desea consultar las soluciones y explicaciones, abra el archivo correspondiente al bloque (formato .md).
 
 Los cuestionarios funcionan directamente en el navegador y **no requieren registro ni creación de cuenta**.
 
