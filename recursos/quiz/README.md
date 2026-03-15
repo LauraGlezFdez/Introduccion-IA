@@ -12,6 +12,7 @@ Cada quiz contiene 5 preguntas sobre los conceptos clave de cada bloque.
 4. Seleccione el bloque que desea realizar.
 5. Marque la respuesta que considere correcta.
 6. Pulse el botón **Corregir quiz** para ver su puntuación.
+7. La explicación de la respuesta está en el archivo llamado por el nombre del bloque y finalizado con la extensión .md
 
 Los cuestionarios funcionan directamente en el navegador y **no requieren registro ni creación de cuenta**.
 
