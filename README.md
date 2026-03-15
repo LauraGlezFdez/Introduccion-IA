@@ -1,9 +1,15 @@
-# Introducción a la IA
+# Curso Introducción a la Inteligencia Artificial
 
-**Repositorio formativo para los alumnos del curso “Introducción a la IA”**.
+Repositorio de apoyo al curso impartido en marzo de 2026.
 
-Incluye materiales y recursos de apoyo utilizados durante el curso.
+## Estructura
 
-El contenido se proporciona **exclusivamente con fines educativos**.
+formulario-preguntas → preguntas previas de los alumnos
 
-Algunos materiales incluyen referencias a normativa, estándares y marcos de gobernanza relacionados con la inteligencia artificial.
+materiales → documentos utilizados durante la sesión
+
+normativa → marco regulatorio, estándares y gobernanza de IA
+
+recursos → material complementario para profundizar
+
+quiz → mini cuestionarios interactivos para repasar los contenidos
