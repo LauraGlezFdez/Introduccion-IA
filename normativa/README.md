@@ -1,14 +1,15 @@
-# Normativa y marcos regulatorios
+# Normativa, estándares y marcos de gobernanza de la IA
 
 Esta carpeta recoge referencias a normativa, estándares y marcos regulatorios relacionados con la inteligencia artificial.
 
-El objetivo es proporcionar a los alumnos una visión general del contexto normativo y de gobernanza que rodea el desarrollo y uso de sistemas de IA.
+El objetivo es proporcionar a los alumnos una visión general del contexto normativo, tecnológico y de gobernanza que rodea el desarrollo y uso de sistemas de IA en el ámbito europeo y español.
 
-## Posibles contenidos
+## Contenidos de referencia
 
 - normativa europea sobre inteligencia artificial
-- documentos regulatorios relevantes
-- marcos de gobernanza de IA
-- informes institucionales
+- normativa española relacionada con el uso de sistemas digitales y datos
+- estándares técnicos y marcos de gestión de IA
+- documentos regulatorios e institucionales relevantes
+- informes y marcos de gobernanza de IA
 
 Los documentos incluidos tienen un carácter informativo y de apoyo al aprendizaje.
