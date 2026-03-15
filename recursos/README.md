@@ -19,7 +19,18 @@ El objetivo es facilitar a los alumnos materiales adicionales para continuar exp
 
 Esta carpeta incluye cuestionarios breves asociados a los distintos bloques del curso.
 
-- Quiz – Aplicabilidad empresarial de la IA
-- Quiz – Fundamentos técnicos de IA
-- Quiz – Ética y supervisión humana
-- Quiz – Marco regulatorio y AI Act
+## Acceso a los cuestionarios interactivos
+
+Los siguientes cuestionarios permiten repasar los principales contenidos del curso:
+
+- [Quiz – Fundamentos técnicos de la IA](quiz/quiz-ciencias.html)
+
+- [Quiz – Aplicabilidad empresarial de la IA](quiz/quiz-aplicabilidad.html)
+
+- [Quiz – Ética y supervisión humana](quiz/quiz-etica.html)
+
+- [Quiz – Marco regulatorio europeo y AI Act](quiz/quiz-ai-act.html)
+
+También puede acceder a todos los cuestionarios desde la página principal:
+
+- [Abrir portal de quizzes](quiz/index.html)
