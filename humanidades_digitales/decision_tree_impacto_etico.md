@@ -24,5 +24,5 @@ El objetivo del árbol de decisión es ayudar a identificar situaciones en las q
 
 ![Árbol de decisión ética IA](../y_images/y_imagenes/decision_tree_etica_IA.jpg)
 
-y_images/y_imagenes/decision_tree_etica_IA.jpg
-> Nota: La visualización de este árbol de decisión ha sido generada mediante la herramienta de diseño asistido por inteligencia artificial **Sigma** con fines ilustrativos dentro del material docente.
+
+> _Nota: La visualización de este árbol de decisión ha sido generada mediante la herramienta de diseño asistido por inteligencia artificial **Figma** con fines ilustrativos dentro del material docente._
