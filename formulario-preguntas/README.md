@@ -10,7 +10,7 @@ Este espacio recoge el formulario previo destinado exclusivamente a los alumnos 
 
 Las preguntas deben estar exclusivamente relacionadas con el contenido del curso y formularse de manera general.
 
-**Fecha límite de envío: martes 17, hasta las 18:00 horas.**
+**Fecha límite de envío: martes 17, hasta las 17:00 horas.**
 
 ## Finalidad
 
