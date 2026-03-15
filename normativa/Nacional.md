@@ -18,54 +18,55 @@ Las guías publicadas por AESIA proporcionan orientación práctica para facilit
 
 ## Guías publicadas
 
+## Guías publicadas por AESIA
+
 ### 01. Guía introductoria al Reglamento de IA
-https://aesia.digital.gob.es/storage/media/01-guia-introductoria-al-reglamento-de-ia.pdf
+https://aesia.digital.gob.es/storage/media/01-guia-introductoria-al-reglamento-de-ia-1770802981.pdf
 
 ### 02. Guía práctica y ejemplos para entender el Reglamento de IA
 https://aesia.digital.gob.es/storage/media/02-guia-practica-y-ejemplos-para-entender-el-reglamento-de-ia.pdf
 
 ### 03. Guía de Evaluación de conformidad
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/03-guia-evaluacion-de-conformidad.pdf
 
 ### 04. Guía del sistema de gestión de la calidad
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/04-guia-del-sistema-de-gestion-de-la-calidad.pdf
 
 ### 05. Guía de gestión de riesgos
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/05-guia-de-gestion-de-riesgos.pdf
 
 ### 06. Guía de vigilancia humana
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/06-guia-vigilancia-humana.pdf
 
 ### 07. Guía de datos y gobernanza de datos
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/07-guia-de-datos-y-gobernanza-de-datos.pdf
 
 ### 08. Guía de transparencia
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/08-guia-transparencia.pdf
 
 ### 09. Guía de precisión
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/09-guia-de-precision.pdf
 
 ### 10. Guía de solidez
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/10-guia-solidez.pdf
 
 ### 11. Guía de ciberseguridad
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/11-guia-ciberseguridad.pdf
 
 ### 12. Guía de registros
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/12-guia-de-registros.pdf
 
 ### 13. Guía de vigilancia poscomercialización
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/13-guia-vigilancia-poscomercializacion.pdf
 
 ### 14. Guía de gestión de incidentes
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/14-guia-gestion-de-incidentes.pdf
 
 ### 15. Guía de documentación técnica
-https://aesia.digital.gob.es/es/guias
+https://aesia.digital.gob.es/storage/media/15-guia-documentacion-tecnica.pdf
 
 ### 16. Manual de checklist de guías de requisitos
-https://aesia.digital.gob.es/es/guias
-
+https://aesia.digital.gob.es/storage/media/16-manual-de-checklist-de-guias-de-requisitos.pdf
 ---
 
 # Normativa española relevante
