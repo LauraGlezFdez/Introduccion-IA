@@ -164,6 +164,16 @@ Esta aproximación permite desplazar el debate desde la fascinación tecnológic
 
 ---
 
+| Propiedad técnica        | Riesgo               | Coste potencial | Respuesta de gobernanza |
+| ------------------------ | -------------------- | --------------- | ----------------------- |
+| Probabilística           | Error plausible      | Reprocesos      | Validación humana       |
+| Dependencia de datos     | Sesgo / baja calidad | Mala decisión   | Gobernanza de datos     |
+| Sensibilidad al contexto | Inconsistencia       | Ineficiencia    | Guías de uso            |
+| Opacidad                 | Difícil auditoría    | Mayor control   | Trazabilidad            |
+| Escala del error         | Fallo masivo         | Coste acumulado | Monitorización          |
+
+---
+
 ## Conclusión
 
 La comprensión básica de ciertas propiedades técnicas de la inteligencia artificial es esencial para la dirección, la gobernanza y la gestión de riesgos.
