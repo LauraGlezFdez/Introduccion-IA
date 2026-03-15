@@ -22,7 +22,7 @@ El siguiente esquema presenta una guía simplificada para reflexionar sobre el u
 
 El objetivo del árbol de decisión es ayudar a identificar situaciones en las que el uso de IA puede plantear cuestiones éticas relacionadas con el impacto en las personas, la discriminación, la supervisión humana o el potencial daño social.
 
-
+![Árbol de decisión ética IA](../y_images/y_imagenes/decision_tree_etica_IA.jpg)
 
 
 > Nota: La visualización de este árbol de decisión ha sido generada mediante la herramienta de diseño asistido por inteligencia artificial **Sigma** con fines ilustrativos dentro del material docente.
