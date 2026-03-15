@@ -6,10 +6,10 @@ El objetivo es proporcionar a los alumnos una visión general del contexto norma
 
 ## Contenidos de referencia
 
-- Normativa europea sobre inteligencia artificial
-- Normativa española relacionada con el uso de sistemas digitales y datos
-- Estándares técnicos y marcos de gestión de IA
-- Documentos regulatorios e institucionales relevantes
-- Informes y marcos de gobernanza de IA
+- Normativa europea sobre inteligencia artificial.
+- Normativa española relacionada con el uso de sistemas digitales y datos.
+- Estándares técnicos y marcos de gestión de IA.
+- Documentos regulatorios e institucionales relevantes.
+- Informes y marcos de gobernanza de IA.
 
 Los documentos incluidos tienen un **carácter informativo y de apoyo al aprendizaje**.
