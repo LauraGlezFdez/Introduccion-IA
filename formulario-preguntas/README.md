@@ -20,4 +20,4 @@ Este formulario tiene una finalidad exclusivamente formativa y de apoyo al desar
 
 Puede acceder al formulario en el siguiente enlace:
 
-[Acceder al formulario de preguntas previas](PEGAR_AQUI_EL_ENLACE_DEL_FORMULARIO)
+[Acceder al formulario de preguntas previas](https://github.com/LauraGlezFdez/Introduccion-IA/blob/main/formulario-preguntas/formulario_preguntas_IA.pdf)
