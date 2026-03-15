@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz – Letras (jurídica / regulatoria)</title>
+<style>
+:root{
+  --bg:#f5f7fb;
+  --card:#ffffff;
+  --text:#1f2937;
+  --muted:#6b7280;
+  --line:#dbe3ef;
+  --primary:#1d4ed8;
+  --ok:#166534;
+  --bad:#991b1b;
+  --soft:#eef4ff;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text)}
+.wrap{max-width:880px;margin:0 auto;padding:36px 20px 56px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 30px rgba(15,23,42,.05);padding:28px}
+h1,h2,h3{margin-top:0}
+h1{font-size:30px;margin-bottom:8px}
+.sub{color:var(--muted);line-height:1.55;margin-bottom:20px}
+.notice{background:var(--soft);border-left:4px solid var(--primary);padding:14px 16px;border-radius:10px;margin:18px 0 24px;line-height:1.5}
+.q{padding:18px 0;border-top:1px solid #e5e7eb}
+.q:first-of-type{border-top:none}
+.qt{font-weight:700;line-height:1.5;margin-bottom:10px}
+label{display:block;margin:8px 0;line-height:1.5;cursor:pointer}
+.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:26px}
+button,.btn{display:inline-block;border:none;border-radius:12px;padding:12px 18px;font-size:15px;text-decoration:none;cursor:pointer}
+.primary{background:var(--primary);color:#fff}
+.secondary{background:#e5e7eb;color:#111827}
+.result{margin-top:24px;background:#f3f4f6;border-radius:12px;padding:16px;display:none}
+.ok{color:var(--ok);font-weight:700}
+.bad{color:var(--bad);font-weight:700}
+.small{font-size:14px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:24px}
+.tile{border:1px solid var(--line);border-radius:16px;background:#fff;padding:20px;box-shadow:0 8px 20px rgba(15,23,42,.04)}
+.tile h3{font-size:20px;margin-bottom:8px}
+.tile p{color:var(--muted);line-height:1.5;min-height:72px}
+.footer{margin-top:28px;color:var(--muted);font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="card">
+    <h1>Quiz – Letras (jurídica / regulatoria)</h1>
+    <p class="sub">AI Act, enfoque basado en riesgo, obligaciones jurídicas y marco europeo.</p>
+    <div class="notice">
+      Cuestionario breve autocorregible. No requiere cuenta ni registro.
+      Las respuestas se corrigen en tu navegador.
+    </div>
+    <form id="quizForm">
+      <div class="q"><div class="qt">1. ¿Cuál es el principio regulatorio central del AI Act?</div><label><input type="radio" name="q1" value="A"> A) Regulación basada en riesgo</label>
+<label><input type="radio" name="q1" value="B"> B) Prohibición general de la IA</label>
+<label><input type="radio" name="q1" value="C"> C) Libertad total de uso</label>
+<label><input type="radio" name="q1" value="D"> D) Neutralidad sin obligaciones</label></div>
+<div class="q"><div class="qt">2. Los sistemas de IA de riesgo inaceptable en el AI Act:</div><label><input type="radio" name="q2" value="A"> A) Se permiten con advertencia</label>
+<label><input type="radio" name="q2" value="B"> B) Se someten a simple registro</label>
+<label><input type="radio" name="q2" value="C"> C) Están prohibidos</label>
+<label><input type="radio" name="q2" value="D"> D) No están definidos</label></div>
+<div class="q"><div class="qt">3. Los sistemas de alto riesgo están sujetos a:</div><label><input type="radio" name="q3" value="A"> A) Ninguna obligación específica</label>
+<label><input type="radio" name="q3" value="B"> B) Requisitos estrictos de gestión de riesgos, documentación y supervisión</label>
+<label><input type="radio" name="q3" value="C"> C) Solo obligaciones de diseño gráfico</label>
+<label><input type="radio" name="q3" value="D"> D) Únicamente normas fiscales</label></div>
+<div class="q"><div class="qt">4. Una obligación típica de sistemas de riesgo limitado es:</div><label><input type="radio" name="q4" value="A"> A) Obligaciones de transparencia</label>
+<label><input type="radio" name="q4" value="B"> B) Prohibición automática</label>
+<label><input type="radio" name="q4" value="C"> C) Exención total</label>
+<label><input type="radio" name="q4" value="D"> D) Registro penal</label></div>
+<div class="q"><div class="qt">5. El objetivo general del AI Act es:</div><label><input type="radio" name="q5" value="A"> A) Sustituir toda regulación digital</label>
+<label><input type="radio" name="q5" value="B"> B) Establecer normas armonizadas para un uso seguro y confiable de la IA en la UE</label>
+<label><input type="radio" name="q5" value="C"> C) Regular solo universidades</label>
+<label><input type="radio" name="q5" value="D"> D) Eliminar la innovación tecnológica</label></div>
+      <div class="actions">
+        <button type="button" class="primary" onclick="gradeQuiz()">Corregir quiz</button>
+        <button type="reset" class="secondary" onclick="resetQuiz()">Reiniciar</button>
+        <a class="btn secondary" href="index.html">Volver a quizzes</a>
+      </div>
+    </form>
+    <div id="result" class="result"></div>
+    <div class="footer">Curso de Introducción a la IA · Material de apoyo formativo</div>
+  </div>
+</div>
+<script>
+const answerKey = {"q1": "A", "q2": "C", "q3": "B", "q4": "A", "q5": "B"};
+function gradeQuiz(){
+  const form=document.getElementById('quizForm');
+  const result=document.getElementById('result');
+  let score=0;
+  let html='<div class="small" style="margin-top:10px">';
+  for(const [q, correct] of Object.entries(answerKey)){
+    const chosen=form.querySelector(`input[name="${q}"]:checked`);
+    if(chosen && chosen.value===correct){
+      score++;
+      html += `<p class="ok">Pregunta ${q.replace('q','')}: correcta</p>`;
+    } else {
+      html += `<p class="bad">Pregunta ${q.replace('q','')}: incorrecta. Respuesta correcta: ${correct}</p>`;
+    }
+  }
+  html+='</div>';
+  result.style.display='block';
+  result.innerHTML=`<strong>Resultado: ${score} / ${Object.keys(answerKey).length}</strong>` + html;
+  result.scrollIntoView({behavior:'smooth', block:'start'});
+}
+function resetQuiz(){
+  const result=document.getElementById('result');
+  result.style.display='none';
+  result.innerHTML='';
+}
+</script>
+</body>
+</html>
