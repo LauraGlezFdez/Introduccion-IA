@@ -12,7 +12,11 @@ Antes de enviar sus preguntas, tenga en cuenta lo siguiente:
 
 ## Ejemplos de preguntas
 
-- ¿En qué tipos de procesos empresariales puede aportar mayor valor la inteligencia artificial sin comprometer la transparencia ni el control organizativo? (APLICACIÓN)
-- ¿Cuáles son actualmente las principales limitaciones técnicas de los modelos de IA generativa y cómo pueden afectar a su fiabilidad en entornos profesionales? (CIENCIAS)
-- ¿Qué mecanismos de supervisión humana deberían establecer las organizaciones para garantizar un uso responsable de la IA en la toma de decisiones? (HUMANIDADES)
-- ¿Qué aspectos clave introduce la regulación europea sobre inteligencia artificial que deberían tener en cuenta las organizaciones al integrar sistemas de IA en sus procesos? (LETRAS)
+- **Aplicabilidad (práctica)**
+  ¿En qué tipos de procesos empresariales puede aportar mayor valor la inteligencia artificial sin comprometer la transparencia ni el control organizativo? (APLICACIÓN)
+- **Ciencias (tecnología)**
+¿Cuáles son actualmente las principales limitaciones técnicas de los modelos de IA generativa y cómo pueden afectar a su fiabilidad en entornos profesionales? (CIENCIAS)
+- **Humanidades (ética)**
+¿Qué mecanismos de supervisión humana deberían establecer las organizaciones para garantizar un uso responsable de la IA en la toma de decisiones? (HUMANIDADES)
+- **Letras (jurídica / regulatoria)**
+¿Qué aspectos clave introduce la regulación europea sobre inteligencia artificial que deberían tener en cuenta las organizaciones al integrar sistemas de IA en sus procesos? (LETRAS)
