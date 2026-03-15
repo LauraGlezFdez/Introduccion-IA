@@ -85,6 +85,9 @@ Aspectos a revisar:
 
 ---
 
+![Marco de gobernanza de IA](../y_imagenes/framework-gobernanza-ia.png)
+---
+
 # Conclusión
 
 La inteligencia artificial no es únicamente una cuestión técnica.  
