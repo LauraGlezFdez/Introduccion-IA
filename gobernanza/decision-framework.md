@@ -91,7 +91,7 @@ El siguiente esquema presenta un marco simplificado de gobernanza de la intelige
 
 Su objetivo es ofrecer una visión estructurada de los principales elementos que deben considerarse en la adopción, supervisión y gestión responsable de sistemas de IA desde una perspectiva estratégica, organizativa y ética.
 
-![Marco de gobernanza de IA](../y_imagenes/Gobernanza_frame_IA.jpg)
+![Marco de gobernanza de IA](../y_images/Gobernanza_frame_IA.jpg)
 
 *Nota: esquema conceptual elaborado por la autora con apoyo de herramientas de diseño asistidas por IA.*
 
