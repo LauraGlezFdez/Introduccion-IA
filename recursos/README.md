@@ -34,3 +34,10 @@ Los siguientes cuestionarios permiten repasar los principales contenidos del cur
 También puede acceder a todos los cuestionarios desde la página principal:
 
 - [Abrir portal de quizzes](quiz/index.html)
+
+
+## Soluciones y explicaciones
+
+Las soluciones y explicaciones de cada cuestionario pueden consultarse en los siguientes documentos:
+
+- [Soluciones – Aplicabilidad empresarial de la IA](quiz/soluciones-quizzes
