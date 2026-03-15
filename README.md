@@ -1,6 +1,7 @@
-# Introduccion-IA
-Repositorio formativo destinado exclusivamente a los alumnos del curso “Introducción a la IA”.
+Repositorio formativo para los alumnos del curso “Introducción a la IA”.
 
-Este repositorio contiene materiales y recursos de apoyo utilizados durante el curso para complementar la formación impartida.
+Incluye materiales y recursos de apoyo utilizados durante el curso.
 
-Su uso y utilización es exclusivamente formativo.
+El contenido se proporciona exclusivamente con fines educativos.
+
+Algunos materiales incluyen referencias a normativa, estándares y marcos de gobernanza relacionados con la inteligencia artificial.
