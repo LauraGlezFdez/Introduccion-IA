@@ -3,6 +3,7 @@
 En esta carpeta se incluyen recursos complementarios para ampliar los contenidos tratados en el curso **Introducción a la IA**.
 
 Estos recursos pueden servir como punto de partida para profundizar en distintos aspectos de la inteligencia artificial desde una perspectiva técnica, ética, jurídica o de aplicación práctica.
+Los recursos incluidos en esta carpeta no forman parte directa del contenido explicado en la sesión, sino que sirven como material complementario para profundizar en los temas tratados.
 
 ## Tipos de recursos
 
