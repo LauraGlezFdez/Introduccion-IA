@@ -12,3 +12,13 @@ Estos recursos pueden servir como punto de partida para profundizar en distintos
 - materiales de referencia
 
 El objetivo es facilitar a los alumnos materiales adicionales para continuar explorando el ámbito de la inteligencia artificial más allá del curso.
+
+
+# Quizzes del curso
+
+Esta carpeta incluye cuestionarios breves asociados a los distintos bloques del curso.
+
+- Quiz – Aplicabilidad empresarial de la IA
+- Quiz – Fundamentos técnicos de IA
+- Quiz – Ética y supervisión humana
+- Quiz – Marco regulatorio y AI Act
