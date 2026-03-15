@@ -28,8 +28,8 @@ El Reglamento Europeo de Inteligencia Artificial clasifica los sistemas de IA se
 
 ![Clasificación de riesgos del AI Act](../y_images/Risk_RIA.jpg)
 
-Figura. Clasificación de riesgos del Reglamento Europeo de Inteligencia Artificial (AI Act).  
-Fuente: Parlamento Europeo y Consejo de la Unión Europea, Reglamento (UE) 2024/1689.*
+Figura. Clasificación de riesgos del Reglamento Europeo de Inteligencia Artificial (AI Act).
+Fuente: Parlamento Europeo y Consejo de la Unión Europea, Reglamento (UE) 2024/1689
 
 El AI Act adopta un enfoque regulatorio basado en riesgo que determina el nivel de obligaciones técnicas, de gobernanza y de supervisión humana aplicables a cada sistema.
 
