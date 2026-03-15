@@ -36,6 +36,6 @@ Antes de enviar sus preguntas, tenga en cuenta lo siguiente:
 
 ## Acceso al formulario
 
-Puede descargar el formulario en el siguiente enlace:
+Puede **descargar** el formulario en el siguiente enlace:
 
 [Acceder al formulario de preguntas previas](https://github.com/LauraGlezFdez/Introduccion-IA/blob/main/formulario-preguntas/formulario_preguntas_IA.pdf)
