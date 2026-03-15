@@ -85,7 +85,27 @@ Aspectos a revisar:
 
 ---
 
-![Marco de gobernanza de IA](../y_imagenes/framework-gobernanza-ia.png)
+## Marco de gobernanza de la inteligencia artificial
+
+El siguiente esquema presenta un marco simplificado de gobernanza de la inteligencia artificial en organizaciones.
+
+Su objetivo es ofrecer una visión estructurada de los principales elementos que deben considerarse en la adopción y supervisión de sistemas de IA desde una perspectiva estratégica, organizativa y ética.
+
+![Marco de gobernanza de IA](../y_imagenes/Gobernanza%20IA.jpg)
+
+El modelo se articula en cinco dimensiones principales:
+
+- **Estrategia y liderazgo**, que define la dirección estratégica de la organización y la responsabilidad ejecutiva en el uso de la IA.
+- **Gestión de riesgos**, orientada a identificar y mitigar riesgos técnicos, regulatorios y operativos asociados a los sistemas de IA.
+- **Ética y confianza**, que aborda cuestiones como la transparencia, la equidad, la mitigación de sesgos y la supervisión humana.
+- **Datos y tecnología**, que incluye la gobernanza de datos, el ciclo de vida de los modelos y la arquitectura de los sistemas.
+- **Monitoreo y control**, centrado en la auditoría, el seguimiento del funcionamiento del sistema y la gestión de incidentes.
+
+Este enfoque refleja la creciente importancia de integrar la inteligencia artificial dentro de marcos de gobernanza organizativa que permitan maximizar su valor al tiempo que se gestionan adecuadamente sus riesgos e impactos.
+
+
+> **Nota:** El esquema visual ha sido elaborado utilizando herramientas de diseño asistidas por inteligencia artificial (Figma/Sigma) con fines exclusivamente ilustrativos y educativos.
+
 ---
 
 # Conclusión
