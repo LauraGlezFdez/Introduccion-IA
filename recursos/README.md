@@ -40,10 +40,6 @@ También puede acceder a todos los cuestionarios desde la página principal:
 
 Las soluciones y explicaciones de cada cuestionario pueden consultarse en los siguientes documentos:
 
-## Soluciones de los cuestionarios
-
-Las soluciones y explicaciones de los cuestionarios están disponibles en los siguientes documentos:
-
 - [Soluciones – Fundamentos técnicos de la IA](quiz/soluciones-quizzes/fundamentos%20t%C3%A9cnicos%20de%20IA.md)
 
 - [Soluciones – Aplicabilidad empresarial de la IA](quiz/soluciones-quizzes/aplicabilidad%20empresarial%20de%20la%20IA.md)
