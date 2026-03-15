@@ -9,7 +9,7 @@ Comprender estas dimensiones resulta esencial para integrar la IA de forma respo
 
 ## Dimensiones éticas de la inteligencia artificial
 
-![Dimensiones éticas de la IA](../y_imagenes/dimensiones_eticas_IA.png)
+![Dimensiones éticas de la IA](../y_images/y_imagenes/dimensiones_eticas_IA.png)
 
 Este esquema resume algunas de las principales dimensiones éticas que deben considerarse en el desarrollo y adopción de sistemas de IA dentro de las organizaciones.
 
