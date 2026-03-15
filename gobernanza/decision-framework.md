@@ -91,7 +91,7 @@ El siguiente esquema presenta un marco simplificado de gobernanza de la intelige
 
 Su objetivo es ofrecer una visión estructurada de los principales elementos que deben considerarse en la adopción y supervisión de sistemas de IA desde una perspectiva estratégica, organizativa y ética.
 
-![Marco de gobernanza de la inteligencia artificial](../y_imagenes/Gobernanza IA.jpg)
+![Marco de gobernanza de la inteligencia artificial](../y_imagenes/Gobernanza_IA.jpg)
 
 El modelo se articula en cinco dimensiones principales:
 
