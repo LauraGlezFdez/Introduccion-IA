@@ -4,7 +4,7 @@ Esta carpeta incluye cuestionarios breves autocorregibles asociados a los distin
 
 Cada mini cuestionarios del curso contiene 5 preguntas sobre los conceptos clave de cada bloque.
 
-### Cómo realizar los cuestionarios
+### Pasos de cómo realizar los cuestionarios:
 
 1. Descargue la carpeta **quiz**.
 2. Descomprima el archivo en su ordenador.
