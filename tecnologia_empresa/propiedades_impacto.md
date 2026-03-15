@@ -164,14 +164,16 @@ Esta aproximación permite desplazar el debate desde la fascinación tecnológic
 
 ---
 
-| Propiedad técnica        | Riesgo               | Coste potencial | Respuesta de gobernanza |
-| ------------------------ | -------------------- | --------------- | ----------------------- |
-| Probabilística           | Error plausible      | Reprocesos      | Validación humana       |
-| Dependencia de datos     | Sesgo / baja calidad | Mala decisión   | Gobernanza de datos     |
-| Sensibilidad al contexto | Inconsistencia       | Ineficiencia    | Guías de uso            |
-| Opacidad                 | Difícil auditoría    | Mayor control   | Trazabilidad            |
-| Escala del error         | Fallo masivo         | Coste acumulado | Monitorización          |
+## Relación entre propiedades técnicas de la IA y riesgos organizativos
 
+| Propiedad técnica del sistema | Implicación operativa | Coste económico potencial | Riesgo reputacional | Respuesta de gobernanza |
+|--------------------------------|-----------------------|---------------------------|---------------------|-------------------------|
+| Naturaleza probabilística | El sistema puede generar respuestas plausibles pero incorrectas | Retrabajos, decisiones basadas en información incorrecta, pérdida de eficiencia | Difusión de información errónea, pérdida de confianza | Validación humana en procesos sensibles |
+| Dependencia de datos | El rendimiento depende de la calidad y representatividad de los datos | Análisis incorrectos, sesgos en decisiones automatizadas | Percepción de discriminación o falta de rigor | Gobernanza de datos y control de fuentes |
+| Sensibilidad al contexto | Resultados distintos según instrucciones o entorno de uso | Falta de consistencia en procesos | Respuestas incoherentes ante clientes o usuarios | Guías internas de uso y estandarización |
+| Dificultad de interpretación | Algunos modelos complejos son difíciles de explicar | Costes adicionales de auditoría y supervisión | Dificultad para justificar decisiones | Trazabilidad y documentación |
+| Escalabilidad del error | Un fallo puede replicarse rápidamente en múltiples procesos | Coste acumulado antes de detectar el error | Incidentes visibles a gran escala | Monitorización continua |
+| Sistemas multimodales y agentes | Sistemas con mayor capacidad operativa y autonomía | Mayor complejidad de control y supervisión | Riesgos de uso indebido o incidentes visibles | Evaluación previa de casos de uso |
 ---
 
 ## Conclusión
