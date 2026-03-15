@@ -176,9 +176,8 @@ Esta aproximación permite desplazar el debate desde la fascinación tecnológic
 | Sistemas multimodales y agentes | Sistemas con mayor capacidad operativa y autonomía | Mayor complejidad de control y supervisión | Riesgos de uso indebido o incidentes visibles | Evaluación previa de casos de uso |
 ---
 
-# Propiedades de los sistemas de IA y su impacto organizacional
+# Propiedades e impacto
 
-Los sistemas de inteligencia artificial presentan características técnicas que influyen directamente en su uso dentro de las organizaciones.
 
 ## Comportamiento no determinista
 
