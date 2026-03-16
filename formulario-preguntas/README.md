@@ -34,7 +34,7 @@ Antes de enviar sus preguntas, tenga en cuenta lo siguiente:
 
 ---
 
-## Acceso al formulario
+## ACCESO AL FORMULARIO
 
 Puede **descargar** el formulario en el siguiente enlace:
 
@@ -85,7 +85,7 @@ Antes de enviar sus comentarios, tenga en cuenta lo siguiente:
 
 ---
 
-## Acceso al formulario
+## ACCESO AL FORMULARIO
 
 Puede descargar el formulario en el siguiente enlace:
 
